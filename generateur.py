@@ -5,7 +5,7 @@ import time
 
 
 # Note: rouler avec l'option -u (unbuffered) pour être certain que
-# les outpus sont flushés immédiatement:
+# les outputs sont flushés immédiatement:
 #
 # $ python -u generateur.py
 
